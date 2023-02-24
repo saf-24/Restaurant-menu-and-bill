@@ -1,0 +1,32 @@
+public class RestaurantVariables {
+boolean singleBeefBurger;
+boolean smallShawarma;
+boolean bigShawarma;
+boolean friedChickien;
+boolean kababSandwich;
+boolean doubleBeefBurger;
+boolean singleChickienBurger;
+boolean doubleChickienBurger;
+boolean frenchFries;
+boolean pepsi;
+boolean water;
+boolean Exit;
+String cheese;
+int ch;
+int quantity;
+int quantity1;
+int quantity2;
+int quantity3;
+int quantity4;
+int quantity5;
+int quantity6;
+int quantity7;
+int quantity8;
+int quantity9;
+int quantity10;
+int pay;
+int rest;
+String again;
+static int total;
+public static String order="";
+}
